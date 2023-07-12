@@ -3,3 +3,5 @@
 *.py
 
 chapter3/data/
+
+.DS_Store
